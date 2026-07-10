@@ -7,12 +7,23 @@ export default function Home() {
           Soyel Rana
         </h1>
 
-        <div className="flex gap-6 text-sm">
-          <a href="#about" className="hover:text-blue-400">About</a>
-          <a href="#resume" className="hover:text-blue-400">Resume</a>
-          <a href="#projects" className="hover:text-blue-400">Projects</a>
-          <a href="#contact" className="hover:text-blue-400">Contact</a>
-        </div>
+       <div className="flex gap-6 text-sm">
+  <a href="/about" className="hover:text-blue-400">
+    About
+  </a>
+
+  <a href="/resume" className="hover:text-blue-400">
+    Resume
+  </a>
+
+  <a href="/projects" className="hover:text-blue-400">
+    Projects
+  </a>
+
+  <a href="/contact" className="hover:text-blue-400">
+    Contact
+  </a>
+</div>
       </nav>
 
       {/* Hero */}
