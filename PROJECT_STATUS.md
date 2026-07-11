@@ -1,59 +1,153 @@
-# Soyel Rana Platform
+# Soyel Platform
 
-## Tech Stack
+## Repository
 
-* Next.js 16
-* Tailwind CSS 4
-* TypeScript
-* Git & GitHub
-
-## GitHub Repository
-
+GitHub:
 https://github.com/soyelrana-cse/soyel-rana-website
 
-## Completed
+Live Website:
+https://soyelranacse.vercel.app
 
-* Next.js project created
-* Tailwind CSS configured
-* Homepage created
-* Resume PDF added to public/resume.pdf
-* GitHub profile linked
-* LinkedIn profile linked
-* Git repository initialized
-* First commit pushed to GitHub
+---
 
-## Current Features
+# Current Version
 
-* Home page
-* Navbar
-* Resume button
-* GitHub button
-* LinkedIn button
+Version: 3.0
+
+Status: In Development
+
+---
+
+# Completed
+
+## Project Setup
+- ✅ Next.js 16
+- ✅ Tailwind CSS
+- ✅ Git initialized
+- ✅ GitHub repository connected
+- ✅ Vercel deployment completed
+
+## Pages
+- ✅ Home
+- ✅ About
+- ✅ Resume
+- ✅ Projects
+- ✅ Contact
+- ✅ Portfolio
+
+## Features
+- ✅ Premium SaaS-inspired homepage
+- ✅ Responsive layout
+- ✅ Resume page
+- ✅ GitHub integration
+- ✅ LinkedIn integration
+- ✅ PDF resume support
+- ✅ Portfolio page
+- ✅ Career timeline
+- ✅ Education section
+- ✅ Technical skills section
+- ✅ Tech stack section
+- ✅ Certifications placeholder
+- ✅ Achievements placeholder
+
+---
+
+# Current Design
+
+Theme:
+- Black
+- Cyan accents
+- Glassmorphism
+- Minimal
+- Responsive
+
+---
+
+# Pending Improvements
+
+- [ ] Replace Home navbar with shared navbar
+- [ ] Add Portfolio link on Home page
+- [ ] Shared Navbar component
+- [ ] Shared Footer component
+- [ ] Tech stack icons
+- [ ] Hero improvements
+- [ ] University logo
+- [ ] Footer redesign
+- [ ] Framer Motion animations
+- [ ] Better mobile navigation
+
+---
+
+# Next Version
+
+## Version 3.1
+
+Focus:
+
+- Navbar refactoring
+- Shared components
+- UI polish
+- Footer
+- Icons
+
+---
 
 ## Future Roadmap
 
-### Public
+### Version 4
+- Academics Dashboard
 
-* About Page
-* Resume Page
-* Projects Page
-* Contact Page
-* Certifications
+### Version 5
+- Knowledge Hub
 
-### Private
+### Version 6
+- Project Showcase
 
-* Study Hub
-* Semester Results
-* CGPA Tracker
-* Notes
-* Important Links
-* Learning Dashboard
+### Version 7
+- Motion & Animations
 
-## Deployment
+### Version 8
+- Authentication
 
-* Not deployed yet
-* Planned: Vercel
+### Version 9
+- AI Assistant
 
-## Last Updated
+---
 
-July 2026
+# Development Workflow
+
+Idea
+
+↓
+
+ChatGPT (Architecture)
+
+↓
+
+Codex (Implementation)
+
+↓
+
+Manual Review
+
+↓
+
+Local Testing
+
+↓
+
+Git Commit
+
+↓
+
+GitHub Push
+
+↓
+
+Vercel Deployment
+
+---
+
+Last Updated
+
+12 July 2026
